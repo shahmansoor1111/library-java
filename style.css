@@ -13,13 +13,13 @@
 #faraz2{
     height: 150px;
     width: 300px;
-    background-color: rgb(9, 75, 15);
+    background-color: rgba(80, 100, 81, 1);
     border: 3px solid black;
 }
 
 #faraz3{
     height: 150px;
     width: 300px;
-    background-color: rgb(255, 0, 43);
+    background-color: rgba(184, 165, 168, 1);
     border: 3px solid black;
 }
