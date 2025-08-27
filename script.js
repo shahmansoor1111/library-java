@@ -8,6 +8,6 @@
 // })
 gsap.to(".faraz1",{
     x :1000,
-    duration: -3,
+    duration: -2,
     stagger: 1
 })
